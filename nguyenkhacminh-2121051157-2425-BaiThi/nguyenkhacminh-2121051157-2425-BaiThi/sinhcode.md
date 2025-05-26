@@ -1,6 +1,2 @@
-﻿namespace nguyenkhacminh_2121051157_2425_BaiThi
-{
-    public class sinhcode
-    {
-    }
-}
+﻿dotnet aspnet-codegenerator controller -name BaiTapController -m Baitap
+-dc ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -databaseProvider sqlite -f
