@@ -1,0 +1,1 @@
+﻿dotnet aspnet-codegenerator controller -name DemoABCController -m DemoABC -dc nguyenkhacminh_2121051157_2425_BaiThi.Data.ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries --databaseProvider sqlite
